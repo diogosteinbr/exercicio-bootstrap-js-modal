@@ -1,0 +1,9 @@
+.purple {
+  background-color: #602ac3;
+  color: whitesmoke;
+}
+
+.purple:hover{
+  background-color: #3800a0;
+  color: whitesmoke;
+}
